@@ -1,0 +1,10 @@
+*.sdf
+*.pdb
+*.obj
+*.log
+*.manifest
+
+Debug/
+
+Inspector/Debug/
+Inspector/Release/
